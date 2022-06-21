@@ -1,9 +1,9 @@
-
-## 🌐 Socials:
+## 🌐 HELLO WORLD! 
+### fOLLOW ME ✍️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/demstalfer) 
 
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💻 Tech Stack:
