@@ -3,8 +3,6 @@
 
 [![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dark)](https://github.com/Demstalferez) <br><br>
 
-
-
 ## ⚡ Tech Stack <br>
 
 ### 💻 Data Science & Business Intelligence Full Stack <br><br>
