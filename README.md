@@ -1,8 +1,6 @@
 ## 🌐 HELLO WORLD! 
 <center> <img src="DSREADME.gif"></center> 
-
-
-### FOLLOW ME [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demstalfer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demstalfer)
 
 [![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dracula)](https://github.com/Demstalferez)
 
