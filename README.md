@@ -1,7 +1,7 @@
 ## 🌐 HELLO WORLD! 
 <center> <img src="DSREADME.gif"></center> 
 
-[![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dracula)](https://github.com/Demstalferez) <br><br>
+[![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dark)](https://github.com/Demstalferez) <br><br>
 
 ## ⚡ Tech Stack <br>
 
