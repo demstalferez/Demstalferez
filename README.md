@@ -3,7 +3,7 @@
 
 [![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dark)](https://github.com/Demstalferez) <br><br>
 
-## Search my repositories if you are learning Data Science and write me on Linkedin for any doubt <br>
+### Search my repositories if you are learning Data Science and write me on Linkedin for any doubt <br>
 ![Snake animation](https://github.com/Demstalferez/Demstalferez/blob/output/github-contribution-grid-snake.svg)
 
 ## ⚡ Tech Stack <br>
