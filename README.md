@@ -3,9 +3,6 @@
 
 [![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dark)](https://github.com/Demstalferez) <br><br>
 
-<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=Demstalferez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f3f6f4&icon_color=000000&text_color=f3f6f4&bg_color=0,000000,000000" alt="my Github Stats"/></center> 
-
-
 ## ⚡ Tech Stack <br>
 
 ### 💻 Data Science & Business Intelligence Full Stack <br><br>
