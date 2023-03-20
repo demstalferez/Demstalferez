@@ -10,10 +10,10 @@
 ###  Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ⚡ Tech Stack
-<br>
-### 💻 Data Science & Business Intelligence Full Stack
-<br>
+## ⚡ Tech Stack <br>
+
+### 💻 Data Science & Business Intelligence Full Stack <br>
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -31,9 +31,8 @@
 ![ShellScripting(BASH)](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-<br>
-<br>
-### 🚀 Others Languages
+
+### 🚀 Others Languages <br><br>
 <br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
