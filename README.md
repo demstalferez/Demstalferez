@@ -1,4 +1,7 @@
 ## 🌐 HELLO WORLD! 
+<img src="DSREADME.gif" width="30px" height="30px">
+
+
 ### FOLLOW ME ✍️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/demstalfer) 
 
