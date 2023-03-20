@@ -1,5 +1,5 @@
 ## 🌐 HELLO WORLD! 
-<img src="DSREADME.gif" width="30px" height="30px">
+<img src="DSREADME.gif">
 
 
 ### FOLLOW ME ✍️
