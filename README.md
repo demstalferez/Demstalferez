@@ -1,8 +1,8 @@
 ## 🌐 HELLO WORLD! 
 <center> <img src="DSREADME.gif"></center> 
 
-[![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dracula)](https://github.com/Demstalferez)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+[![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dracula)](https://github.com/Demstalferez) <br><br>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## ⚡ Tech Stack <br>
 
