@@ -2,8 +2,6 @@
 <center> <img src="DSREADME.gif"></center> 
 
 [![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dracula)](https://github.com/Demstalferez)
-
-###  Random Dev Quote 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 
 ## ⚡ Tech Stack <br>
