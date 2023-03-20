@@ -2,6 +2,7 @@
 <center> <img src="DSREADME.gif"></center> 
 
 [![Demstaferezstats](https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dark)](https://github.com/Demstalferez) <br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Demstalferez&theme=juicyfresh&no-bg=true" />
 
 ## ⚡ Tech Stack <br>
 
