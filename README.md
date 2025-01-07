@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Demetrio Esteban Alférez
+# Welcome to My Digital Universe 👨‍💻
 
-## AI & Tech Engineer | Data Science Specialist | Cloud Solutions Architect
+![Snake animation](https://github.com/Demstalferez/Demstalferez/blob/output/github-contribution-grid-snake.svg)
 
-> Crafting intelligent solutions at the intersection of AI, Data Science, and Cloud Computing
+> Building intelligent systems at the intersection of AI, Data Science, and Cloud Computing
 
-### 🎯 About Me
+## 🎯 About Me
 
 I'm a Spanish AI developer specializing in building advanced intelligent systems and scalable solutions. With deep expertise in AI, Data Science, and Full-Stack development, I focus on:
 
@@ -16,10 +16,9 @@ I'm a Spanish AI developer specializing in building advanced intelligent systems
 - 🎓 Mentoring in advanced AI and Data Science concepts
 - 🌐 Deploying scalable solutions in cloud environments
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
-#### AI & Data Science
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -35,13 +34,13 @@ I'm a Spanish AI developer specializing in building advanced intelligent systems
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
-#### Cloud & DevOps
+### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![IBM-Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-#### Full Stack Development
+### Full Stack Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -59,7 +58,7 @@ I'm a Spanish AI developer specializing in building advanced intelligent systems
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌟 Current Roles
+## 🌟 Current Roles
 
 - **Full Stack Engineer** @ Upgrade Hub
   - Developing AI-powered web applications
@@ -76,15 +75,14 @@ I'm a Spanish AI developer specializing in building advanced intelligent systems
   - Implementing custom AI systems
   - Leading system testing and optimization
 
-### 📫 Connect With Me
+## 🌐 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Personal Website](https://your-website.com)
-- 📧 [Email](mailto:your.email@domain.com)
+[Check out about me:](https://demetrio.info)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Demstalferez&show_icons=true&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Demstalfer&icon=0&color=0)
+---
 
+[![](https://visitcount.itsvg.in/api?id=Demstalfer&icon=0&color=0)](https://visitcount.itsvg.in)
