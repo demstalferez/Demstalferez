@@ -1,6 +1,6 @@
 # Welcome to My Digital Universe 👨‍💻
 
-![Snake animation](https://github.com/Demstalferez/Demstalferez/blob/output/github-contribution-grid-snake.svg)
+<center> <img src="DSREADME.gif"></center> <br><br>
 
 > Building intelligent systems at the intersection of AI, Data Science, and Cloud Computing
 
