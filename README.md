@@ -11,7 +11,7 @@ Building secure, scalable AI systems for government institutions and enterprise 
 
 ## Institutional Experience
 
-🏛️ **Government & Enterprise AI Consultant** — *MaiaCorp USA*  
+🏛️ **Government & Enterprise AI Consultant** — *MaiaCorp USA*  *QUORAX.AI*  
 Leading confidential AI, security, and intelligence projects for government agencies and enterprise clients.
 
 🔐 **Security & Technology Consultant** — *ACCEM / Fundación Accem*  
