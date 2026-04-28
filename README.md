@@ -39,7 +39,7 @@ Currently I split my time across several roles:
 </tr>
 <tr>
 <td>Director</td>
-<td><b>Upgrade Hub</b></td>
+<td><a href="https://upgrade-hub.com"><b>Upgrade Hub</b></a></td>
 <td>Director of the Data Science & AI area — designing curricula, leading programs, and training the next generation of data professionals</td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ Currently I split my time across several roles:
 </tr>
 <tr>
 <td>Consultant</td>
-<td><b>ACCEM</b></td>
+<td><a href="https://accem.es"><b>ACCEM</b></a></td>
 <td>Security & technology consultant — cybersecurity, digital transformation, and secure infrastructure for one of Spain's leading NGOs</td>
 </tr>
 </table>
