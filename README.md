@@ -32,18 +32,6 @@ Before Quorax, I built my expertise across institutions that shaped how I approa
 
 ---
 
-## Featured Projects
-
-| Project | Description | |
-|---|---|---|
-| [**rag-builder**](https://github.com/Demstalferez/rag-builder) | Visual RAG project generator — create customized RAG systems in minutes | ![Stars](https://img.shields.io/github/stars/Demstalferez/rag-builder?style=flat-square) |
-| [**Diamond Project**](https://github.com/Demstalferez/Diamond_project_pr) | Full-stack web app from zero — used by 50+ developers | ![Forks](https://img.shields.io/github/forks/Demstalferez/Diamond_project_pr?style=flat-square) |
-| [**fakedb**](https://github.com/Demstalferez/fakedb) | Synthetic database generator | ![Forks](https://img.shields.io/github/forks/Demstalferez/fakedb?style=flat-square) |
-| [**CNN Digit Recognition**](https://github.com/Demstalferez/Reconomiento-de-digitos-con-red-neuronal) | Handwritten digit recognition with CNN & TensorFlow | ![Stars](https://img.shields.io/github/stars/Demstalferez/Reconomiento-de-digitos-con-red-neuronal?style=flat-square) |
-| [**Spanish Gov Data**](https://github.com/Demstalferez/Consultor-de-datos-Spanish-government) | Data consultant tool for Spanish government open data | ![Stars](https://img.shields.io/github/stars/Demstalferez/Consultor-de-datos-Spanish-government?style=flat-square) |
-
----
-
 ## Tech Stack
 
 **AI & ML**  
@@ -66,15 +54,6 @@ Before Quorax, I built my expertise across institutions that shaped how I approa
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=demstalferez&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demstalferez&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
