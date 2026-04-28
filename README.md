@@ -1,63 +1,130 @@
-# Demetrio Esteban Alferez
+<div align="center">
 
-**Founder & CEO @ [Quorax.AI](https://quorax.ai)**
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=200&section=header&text=Demetrio%20Esteban%20Alferez&fontSize=36&fontColor=22d3ee&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20Quorax.AI&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
 
-[![Quorax](https://img.shields.io/badge/Quorax.AI-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=white)](https://quorax.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demstalfer/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/demstalferez)
+<!-- BADGES -->
+<a href="https://quorax.ai">
+  <img src="https://img.shields.io/badge/Quorax.AI-0a1628?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMjJkM2VlIj48cGF0aCBkPSJNMTIgMkwyIDdsMTAgNSAxMC01LTEwLTV6TTIgMTdsMTAgNSAxMC01LTEwLTUtMTAgNXpNMiAxMmwxMCA1IDEwLTUtMTAtNS0xMCA1eiIvPjwvc3ZnPg==&logoColor=22d3ee" alt="Quorax.AI" />
+</a>
+<a href="https://www.linkedin.com/in/demstalfer/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
+</a>
+<a href="https://github.com/demstalferez">
+  <img src="https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
+</a>
 
----
+<br/><br/>
 
-## About Quorax
+<!-- TAGLINE -->
+<samp><b>Ethical AI. Sovereign Data. Security. Engineered.</b></samp>
+
+</div>
+
+<br/>
+
+<!-- ABOUT QUORAX -->
+## <img src="https://img.shields.io/badge/Q-22d3ee?style=flat-square&logoColor=white" height="20" /> &nbsp;About Quorax
+
+<table>
+<tr>
+<td>
 
 **[Quorax.AI](https://quorax.ai)** is the AI consulting firm I founded to help businesses integrate artificial intelligence into their operations — from strategy and architecture to production-ready systems.
 
-We work with enterprise clients and institutions on:
-- **Custom AI solutions** — RAG systems, LLM orchestration, autonomous agents
-- **Data infrastructure** — pipelines, analytics platforms, real-time dashboards
-- **Security & compliance** — secure architecture, data sovereignty, threat intelligence
-- **Automation** — workflow optimization, process automation, MLOps
+Technology that protects what matters. Open-source first, GDPR compliant, data sovereignty by design.
 
----
+</td>
+</tr>
+</table>
 
-## Background
+<br/>
 
-Before Quorax, I built my expertise across institutions that shaped how I approach AI:
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<br/>
+<img src="https://img.shields.io/badge/AI%20&%20ML-0a1628?style=for-the-badge&logoColor=22d3ee" /><br/><br/>
+<samp>RAG Systems<br/>LLM Orchestration<br/>Computer Vision<br/>Predictive Analytics</samp>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+<img src="https://img.shields.io/badge/Data%20Science-0a1628?style=for-the-badge&logoColor=22d3ee" /><br/><br/>
+<samp>Pipelines & ETL<br/>BI Systems<br/>Real-time Analytics<br/>Dashboards</samp>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+<img src="https://img.shields.io/badge/Security-0a1628?style=for-the-badge&logoColor=22d3ee" /><br/><br/>
+<samp>OSINT & GDPR<br/>Zero Trust<br/>Incident Response<br/>Data Sovereignty</samp>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+<img src="https://img.shields.io/badge/Development-0a1628?style=for-the-badge&logoColor=22d3ee" /><br/><br/>
+<samp>Full-stack Web<br/>Next.js & React<br/>FastAPI & Node<br/>MLOps & CI/CD</samp>
+<br/><br/>
+</td>
+</tr>
+</table>
+</div>
 
-**ACCEM / Fundacion Accem** — Security & technology consulting for one of Spain's leading NGOs. Cybersecurity, digital transformation, and secure infrastructure at institutional scale.
+<br/>
 
-**Upgrade Hub** — Director of Data Science programs. Designed and led AI/data science curricula with hands-on, industry-aligned training.
+<!-- BACKGROUND -->
+## <img src="https://img.shields.io/badge/B-22d3ee?style=flat-square&logoColor=white" height="20" /> &nbsp;Background
 
-**CSIC (Spanish National Research Council)** — External AI trainer for the Momentum program, supporting research impact at Spain's largest public research institution.
+<details>
+<summary><b>ACCEM / Fundacion Accem</b> — Security & Technology Consultant</summary>
+<br/>
+Strategic consulting in cybersecurity, digital transformation, and secure infrastructure for one of Spain's leading NGOs with institutional reach.
+<br/><br/>
+</details>
 
----
+<details>
+<summary><b>Upgrade Hub</b> — Director of Data Science Programs</summary>
+<br/>
+Designed and directed comprehensive data science and AI curricula with industry-aligned, hands-on training.
+<br/><br/>
+</details>
 
-## Tech Stack
+<details>
+<summary><b>CSIC</b> — AI & Data Science Trainer</summary>
+<br/>
+External trainer for the Momentum program at Spain's National Research Council, supporting research impact through specialized AI training.
+<br/><br/>
+</details>
 
-**AI & ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<br/>
 
-**Web & APIs**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<!-- TECH STACK -->
+## <img src="https://img.shields.io/badge/T-22d3ee?style=flat-square&logoColor=white" height="20" /> &nbsp;Tech Stack
 
-**Data & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
 
----
+| AI & ML | Web & APIs | Data & Cloud |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=22d3ee) ![PyTorch](https://img.shields.io/badge/PyTorch-0a1628?style=flat-square&logo=pytorch&logoColor=22d3ee) | ![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=22d3ee) ![Next.js](https://img.shields.io/badge/Next.js-0a1628?style=flat-square&logo=nextdotjs&logoColor=22d3ee) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=22d3ee) ![MongoDB](https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=22d3ee) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1628?style=flat-square&logo=tensorflow&logoColor=22d3ee) ![LangChain](https://img.shields.io/badge/LangChain-0a1628?style=flat-square&logo=chainlink&logoColor=22d3ee) | ![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=22d3ee) ![FastAPI](https://img.shields.io/badge/FastAPI-0a1628?style=flat-square&logo=fastapi&logoColor=22d3ee) | ![Azure](https://img.shields.io/badge/Azure-0a1628?style=flat-square&logo=microsoftazure&logoColor=22d3ee) ![AWS](https://img.shields.io/badge/AWS-0a1628?style=flat-square&logo=amazonaws&logoColor=22d3ee) |
+| ![scikit-learn](https://img.shields.io/badge/sklearn-0a1628?style=flat-square&logo=scikit-learn&logoColor=22d3ee) | ![Node.js](https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=22d3ee) | ![Docker](https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=22d3ee) |
 
-<p align="center">
-  <b>Interested in working together?</b><br>
-  <a href="https://quorax.ai">quorax.ai</a> &middot; <a href="https://www.linkedin.com/in/demstalfer/">LinkedIn</a>
-</p>
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=120&section=footer" width="100%" />
+
+<br/>
+
+<a href="https://quorax.ai"><b>quorax.ai</b></a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/demstalfer/">LinkedIn</a>
+
+<br/><br/>
+
+<samp>Technology that protects what matters.</samp>
+
+</div>
